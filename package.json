@@ -96,9 +96,8 @@
   "bugs": {
     "url": "https://github.com/yieldfarming/yieldfarming/issues"
   },
-  
   "homepage": "https://yieldfarming.info",
-    "engines": {
+  "engines": {
     "node": "12.x"
   }
 }
