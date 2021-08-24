@@ -1,5 +1,5 @@
 {
-  "name": "totem-farms",
+  "name": "yieldfarming.info",
   "version": "1.0.0",
   "description": "Boilerplate for a Static website using EJS and SASS",
   "main": "index.js",
@@ -35,7 +35,6 @@
     "@babel/plugin-syntax-dynamic-import": "^7.8.3",
     "@babel/plugin-transform-runtime": "^7.12.10",
     "@babel/preset-env": "^7.9.0",
-    "assemble": "^0.24.3",
     "autoprefixer": "^7.2.6",
     "babel-loader": "^8.1.0",
     "babel-polyfill": "^6.26.0",
@@ -62,7 +61,6 @@
     "console-table-printer": "^2.7.3",
     "core-js": "^3.15.1",
     "diff": "^4.0.2",
-    "docker": "^1.0.0",
     "dompurify": "^2.0.8",
     "ethcall": "3.0.0",
     "ethers": "^5.3.0",
@@ -97,8 +95,5 @@
   "bugs": {
     "url": "https://github.com/yieldfarming/yieldfarming/issues"
   },
-  "homepage": "totem-farms.herokuapp.com",
-  "engines": {
-    "node": "12.x"
-  }
+  "homepage": "https://yieldfarming.info"
 }
