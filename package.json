@@ -71,8 +71,7 @@
     "lodash.throttle": "^4.1.1",
     "numbro": "^2.3.2",
     "picturefill": "^3.0.3",
-    "web3modal": "^1.9.3",
-    "win-node-env": "^0.4.0"
+    "web3modal": "^1.9.3"
   },
   "browserslist": [
     "last 1 version",
@@ -96,8 +95,5 @@
   "bugs": {
     "url": "https://github.com/yieldfarming/yieldfarming/issues"
   },
-  "homepage": "https://yieldfarming.info",
-  "engines": {
-    "node": "12.x"
-  }
+  "homepage": "https://yieldfarming.info"
 }
